@@ -1,2 +1,3 @@
-var number = 5
-number++
+function add(a, b) {
+  return {a += b}
+}
